@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: QuanEcon Core: reproducible computation for Hilbert/QDT/CbD/Quantum-Game/Finance/Money
+version: 1.0.0
+authors:
+  - family-names: Elin
+    given-names: Mirza Niaz Zaman
+date-released: 2025-09-05
+license: MIT
